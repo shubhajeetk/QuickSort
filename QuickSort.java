@@ -72,7 +72,7 @@ class QuickSort
         QuickSort ob = new QuickSort();
         ob.sort(arr, 0, n-1);
  
-        System.out.println("sorted array");
+        System.out.println("sorted array is: ");
         printArray(arr);
     }
 }
